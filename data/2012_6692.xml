@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<JobOrder xmlns="http://xml.treuropa.com/schema/commessa">
+  <JobOrderCode>2012</JobOrderCode>
+  <Description>#2 TUJUH BUKIT 2D TSX (2022/23)</Description>
+  <Delivery>
+    <Code>IT6692</Code>
+    <Date>2022-12-07T00:00Z</Date>
+  </Delivery>
+  <SalesResponsible>Paolo Ferrari</SalesResponsible>
+  <TechnicalResponsible>Benjamin Saadia</TechnicalResponsible>
+  <Producer>
+    <Code>IT-999</Code>
+    <Name>TRE ALTAMIRA Srl</Name>
+  </Producer>
+  <CustomerCode>IT-5278</CustomerCode>
+  <CustomerDate>11/02/22</CustomerDate>
+  <Customer>
+    <No>IT-5278</No>
+    <Name>PT CLS Argos Indonesia</Name>
+  </Customer>
+  <DeliveryExpectedInit>11/30/22</DeliveryExpectedInit>
+  <DeliveryExpectedProcessingEnd>12/07/22</DeliveryExpectedProcessingEnd>
+  <ProcessingLines>
+    <ProcessingLine>
+      <AOIId>0</AOIId>
+      <AOIName>Tujuh Bukit</AOIName>
+      <FileAttchment />
+      <Track>111</Track>
+      <Geometry>A</Geometry>
+      <AcquisitionConfigurationID>164</AcquisitionConfigurationID>
+      <Constellation>terrasarx</Constellation>
+      <Status>Pending</Status>
+      <Products>DECOMPOSITION;SQUEEESAR</Products>
+      <Note />
+      <ExpectedImages>39</ExpectedImages>
+      <FirstProcessingDate>10/19/21</FirstProcessingDate>
+      <LastProcessingDate>11/22/22</LastProcessingDate>
+    </ProcessingLine>
+    <ProcessingLine>
+      <AOIId>0</AOIId>
+      <AOIName>Tujuh Bukit</AOIName>
+      <FileAttchment />
+      <Track>58</Track>
+      <Geometry>D</Geometry>
+      <AcquisitionConfigurationID>464</AcquisitionConfigurationID>
+      <Constellation>terrasarx</Constellation>
+      <Status>Pending</Status>
+      <Products>DECOMPOSITION;SQUEEESAR</Products>
+      <Note />
+      <ExpectedImages>35</ExpectedImages>
+      <FirstProcessingDate>10/15/21</FirstProcessingDate>
+      <LastProcessingDate>11/29/22</LastProcessingDate>
+    </ProcessingLine>
+  </ProcessingLines>
+</JobOrder>

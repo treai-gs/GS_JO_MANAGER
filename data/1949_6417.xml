@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<JobOrder xmlns="http://xml.treuropa.com/schema/commessa">
+  <JobOrderCode>1949</JobOrderCode>
+  <Description>Otobe - Hokkaido</Description>
+  <Delivery>
+    <Code>IT6417</Code>
+    <Date>2022-10-27T00:00Z</Date>
+  </Delivery>
+  <SalesResponsible>Iolanda Iannicella</SalesResponsible>
+  <TechnicalResponsible>Benjamin Saadia</TechnicalResponsible>
+  <Producer>
+    <Code>IT-999</Code>
+    <Name>TRE ALTAMIRA Srl</Name>
+  </Producer>
+  <CustomerCode>IT-5037</CustomerCode>
+  <CustomerDate>09/19/22</CustomerDate>
+  <Customer>
+    <No>IT-5037</No>
+    <Name>OYO CORPORATION </Name>
+  </Customer>
+  <DeliveryExpectedInit>09/26/22</DeliveryExpectedInit>
+  <DeliveryExpectedProcessingEnd>10/10/22</DeliveryExpectedProcessingEnd>
+  <ProcessingLines>
+    <ProcessingLine>
+      <AOIId>0</AOIId>
+      <AOIName>Otobe - Hokkaido</AOIName>
+      <FileAttchment>AOI globale_Frana + GPS</FileAttchment>
+      <Track>46</Track>
+      <Geometry>D</Geometry>
+      <AcquisitionConfigurationID>224</AcquisitionConfigurationID>
+      <Constellation>sentinel</Constellation>
+      <Status>Pending</Status>
+      <Products>SQUEEESAR</Products>
+      <Note />
+      <ExpectedImages>86</ExpectedImages>
+      <FirstProcessingDate>11/01/14</FirstProcessingDate>
+      <LastProcessingDate>06/01/21</LastProcessingDate>
+    </ProcessingLine>
+  </ProcessingLines>
+</JobOrder>
