@@ -71,7 +71,7 @@
  [],
  False,
  False,
- 1673888788,
+ 1675765166,
  [('run.exe',
    'C:\\Users\\saadia\\Documents\\0_WORK\\ASANA_DEVELOPMENT\\venv\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit\\run.exe',
    'EXECUTABLE')])
