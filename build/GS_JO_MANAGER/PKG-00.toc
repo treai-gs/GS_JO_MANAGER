@@ -1,4 +1,4 @@
-('C:\\Users\\saadia\\Documents\\0_WORK\\SOFTWARE\\GS_JO_MANAGER\\build\\GS_JO_MANAGER\\GS_JO_MANAGER.pkg',
+('C:\\Users\\saadia\\Documents\\0_WORK\\SOFTWARE\\GS_JO_MANAGER\\build\\GS_JO_MANAGER\\GS_JO_MANAGER_v3.pkg',
  {'BINARY': True,
   'DATA': True,
   'EXECUTABLE': True,
