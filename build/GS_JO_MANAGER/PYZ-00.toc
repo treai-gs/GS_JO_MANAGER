@@ -1,4 +1,4 @@
-('C:\\Users\\saadia\\Documents\\0_WORK\\SOFTWARE\\GS_JO_MANAGER\\build\\GS_JO_MANAGER\\PYZ-00.pyz',
+('C:\\Users\\saadia\\Documents\\0_WORK\\SOFTWARE\\GS_JO_MANAGER\\PROGRAM\\GS_JO_MANAGER\\build\\GS_JO_MANAGER\\PYZ-00.pyz',
  [('IPython',
    'C:\\Users\\saadia\\Documents\\0_WORK\\SOFTWARE\\GS_JO_MANAGER\\CODE\\venv\\lib\\site-packages\\IPython\\__init__.py',
    'PYMODULE'),
