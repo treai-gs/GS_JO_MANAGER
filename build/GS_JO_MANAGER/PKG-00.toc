@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ('C:\\Users\\saadia\\Documents\\0_WORK\\SOFTWARE\\GS_JO_MANAGER\\build\\GS_JO_MANAGER\\GS_JO_MANAGER_v3.pkg',
+=======
+('C:\\Users\\saadia\\Documents\\0_WORK\\SOFTWARE\\GS_JO_MANAGER\\PROGRAM\\GS_JO_MANAGER\\build\\GS_JO_MANAGER\\GS_JO_MANAGER_v3.pkg',
+>>>>>>> 6bc58d1ca360037d1e441b5eb914581c09d52b49
  {'BINARY': True,
   'DATA': True,
   'EXECUTABLE': True,
@@ -10,6 +14,7 @@
   'SYMLINK': False},
  [('pyi-contents-directory _internal', '', 'OPTION'),
   ('PYZ-00.pyz',
+<<<<<<< HEAD
    'C:\\Users\\saadia\\Documents\\0_WORK\\SOFTWARE\\GS_JO_MANAGER\\build\\GS_JO_MANAGER\\PYZ-00.pyz',
    'PYZ'),
   ('struct',
@@ -26,6 +31,24 @@
    'PYMODULE'),
   ('pyimod04_pywin32',
    'C:\\Users\\saadia\\Documents\\0_WORK\\SOFTWARE\\GS_JO_MANAGER\\build\\GS_JO_MANAGER\\localpycs\\pyimod04_pywin32.pyc',
+=======
+   'C:\\Users\\saadia\\Documents\\0_WORK\\SOFTWARE\\GS_JO_MANAGER\\PROGRAM\\GS_JO_MANAGER\\build\\GS_JO_MANAGER\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\saadia\\Documents\\0_WORK\\SOFTWARE\\GS_JO_MANAGER\\PROGRAM\\GS_JO_MANAGER\\build\\GS_JO_MANAGER\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\saadia\\Documents\\0_WORK\\SOFTWARE\\GS_JO_MANAGER\\PROGRAM\\GS_JO_MANAGER\\build\\GS_JO_MANAGER\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\saadia\\Documents\\0_WORK\\SOFTWARE\\GS_JO_MANAGER\\PROGRAM\\GS_JO_MANAGER\\build\\GS_JO_MANAGER\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\saadia\\Documents\\0_WORK\\SOFTWARE\\GS_JO_MANAGER\\PROGRAM\\GS_JO_MANAGER\\build\\GS_JO_MANAGER\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\saadia\\Documents\\0_WORK\\SOFTWARE\\GS_JO_MANAGER\\PROGRAM\\GS_JO_MANAGER\\build\\GS_JO_MANAGER\\localpycs\\pyimod04_pywin32.pyc',
+>>>>>>> 6bc58d1ca360037d1e441b5eb914581c09d52b49
    'PYMODULE'),
   ('pyiboot01_bootstrap',
    'C:\\Users\\saadia\\Documents\\0_WORK\\SOFTWARE\\GS_JO_MANAGER\\CODE\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
